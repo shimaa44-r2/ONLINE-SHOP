@@ -195,3 +195,4 @@ const searchStyles = `
 const styleSheet = document.createElement('style');
 styleSheet.textContent = searchStyles;
 document.head.appendChild(styleSheet);
+
